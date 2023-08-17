@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Addons\Reports\CannedResponses\Reports;
+namespace Addons\Reports\Skeleton\Reports;
 
 use App\Modules\Report\Addon\Dashboards\CardCollection;
 use App\Modules\Report\Addon\Dashboards\Dashboard;

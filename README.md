@@ -15,13 +15,5 @@ command in the base directory of your SupportPal installation:
 php artisan make:report
 ````
 
-Once complete, read through our [Report Development Guide](https://docs.supportpal.com/current/Report+Development+Getting+Started)
+Once complete, read through our [Report Development Guide](https://docs.supportpal.com/current/Report+Development)
 to get started.
-
-### Structure
-
-The skeleton includes the bare minimum for a basic report.
-
-* *Controllers* - https://docs.supportpal.com/current/Report+Development+Controllers
-* *Lang* - https://docs.supportpal.com/current/Report+Development+Languages
-* *Report Dashboards* - https://docs.supportpal.com/current/Report+Development+Dashboards

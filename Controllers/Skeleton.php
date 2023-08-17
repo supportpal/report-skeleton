@@ -2,10 +2,10 @@
 
 namespace Addons\Reports\Skeleton\Controllers;
 
-use Addons\Reports\CannedResponses\Reports\ExampleDashboard;
-use App\Modules\Report\Addon\ReportAddon;
+use Addons\Reports\Skeleton\Reports\ExampleDashboard;
+use App\Modules\Report\Addon\Report;
 
-class Skeleton extends ReportAddon
+class Skeleton extends Report
 {
     public function __construct()
     {
