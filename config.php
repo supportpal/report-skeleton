@@ -85,4 +85,15 @@ return [
 
     'icon' => '',
 
+    /*
+    |--------------------------------------------------------------------------
+    | Can Uninstall Report (optional)
+    |--------------------------------------------------------------------------
+    |
+    | If the report can be uninstalled from the operator panel.
+    |
+    */
+
+    'can_uninstall' => true,
+
 ];
